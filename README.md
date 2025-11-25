@@ -20,7 +20,7 @@ between two accounts, and viewing transaction history.
 ## Group Members:
 
  - [@ShivamYadav](https://github.com/shivamm-yadav)
- - [@ShridhiGupta](https://github.com/PRANAVD-10)
+ - [@ShridhiGupta](https://github.com/man-pvt11)
  - [@ManjisthaChakravorty](https://github.com/ShivamB10)
 
 ## System Design & Flow Chart:
@@ -109,4 +109,5 @@ administrator.
 - https://projectsgeek.com/2016/02/complete-banking-system-java-project.html
 
 - https://www.apachefriends.org/index.html
+
 
