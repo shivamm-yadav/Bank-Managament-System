@@ -98,7 +98,7 @@ administrator.
 
 ## Documentations:
 
-- [Project Ppt](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/PPT_SEITA_19.pptx)
+- [Project Ppt](https://github.com/shivamm-yadav/Bank-Managament-System/blob/main/Extras/Reports/PPT_SEITA_19.pptx)
 
 - [Final Report](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/ProjectReport_SEITA_19.pdf)
 
@@ -109,5 +109,6 @@ administrator.
 - https://projectsgeek.com/2016/02/complete-banking-system-java-project.html
 
 - https://www.apachefriends.org/index.html
+
 
 
